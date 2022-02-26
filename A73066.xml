@@ -1,0 +1,515 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The remors of conscyence Here begynneth certayne demonstracyons by our lorde to all synfull persones with ye remors of mann[es] conscynce to the regarde o[f] the bounte of our lorde.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1515</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73066</idno>
+            <idno type="STC">STC 20881.7</idno>
+            <idno type="STC">ESTC S124837</idno>
+            <idno type="EEBO-CITATION">99898722</idno>
+            <idno type="PROQUEST">99898722</idno>
+            <idno type="VID">152112</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73066)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152112)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2015:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The remors of conscyence Here begynneth certayne demonstracyons by our lorde to all synfull persones with ye remors of mann[es] conscynce to the regarde o[f] the bounte of our lorde.</title>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>W. de Worde,</publisher>
+                  <pubPlace>[London:</pubPlace>
+                  <date>1515]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Woodcut illustration on title page.</note>
+                  <note>Imprint from STC.</note>
+                  <note>In this edition, title page line 4 begins: mors.</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1475-1640 reel 2015 lacks leaf B1.</note>
+                  <note>Reproduction of original in the Sion College Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conscience --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152112:1"/>
+            <pb facs="tcp:152112:1" rendition="simple:additions"/>
+            <pb facs="tcp:152112:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:152112:3"/>
+            <p>The remors of conſcyence.</p>
+            <p>¶ Here begynneth certayne demonſtracyons by our lorde to all ſynfull perſones with y<hi rend="sup">e</hi> Re<g ref="char:EOLunhyphen"/>mors of mann<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> conſcyence to the regarde o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the bounte of our lorde.</p>
+            <figure>
+               <figDesc>Jesus confronts a man on his knees</figDesc>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:152112:4" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>Jesus confronts a man on his knees</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="didactic_poem">
+            <pb facs="tcp:152112:4"/>
+            <head>Deus.</head>
+            <l>OVr gracyous god mooſt in magnyfyce<g ref="char:cmbAbbrStroke">̄</g>ce</l>
+            <l>His mercyfull eyen caſteth fro<g ref="char:cmbAbbrStroke">̄</g> heue on hy</l>
+            <l>Seynge his creatures in deedly vyole<g ref="char:cmbAbbrStroke">̄</g>ce</l>
+            <l>Hymſelfe complayneth by pyte full ruthfully</l>
+            <l>Saynge o man deuoyde of intellygence</l>
+            <l>Open thyn eeres vnto my call and cry</l>
+            <l>And tell me yf I haue done to the offence</l>
+            <l>That thou forſakeſt my wyllyngly</l>
+            <l>Man ſuche a loue to the I dyde take</l>
+            <l>This worlde in ſeuen dayes whan I it wrought</l>
+            <l>Thou was the laſte thynge that I dyde make</l>
+            <l>Bycauſe I wolde thou wanted nought</l>
+            <l>What thynge the myght helpe dyde not lake</l>
+            <l>That at thy nede yf it were ſought</l>
+            <l>Fowle fyſſhe all thynge for thy ſake</l>
+            <l>For thy comforte all was forth brought</l>
+            <l>More ouer I gaue the that dygnyte</l>
+            <l>All beeſtes to bowe the vntyll</l>
+            <l>I made the alſo lyke vnto me</l>
+            <l>And gaue the connynge and free wyll</l>
+            <l>Me to ſerue that thou ſholde ſe</l>
+            <l>To choſe the good and leue the yll</l>
+            <l>I aſke nothynge agayne of the</l>
+            <l>But loue thy ſouerayne as it is ſkyll</l>
+            <l>But vnto this takeſt thou none entente</l>
+            <l>Thou tourneſt fro me full vnkyndly</l>
+            <l>On loues vnlefull thy loue is lente</l>
+            <l>Thy herte beholdeth not heuen ſo hye</l>
+            <l>For all the goodes I haue the ſente</l>
+            <l>The lyſteth not ones to ſaye gramercye</l>
+            <l>In tyme to come or thou repente</l>
+            <l>Man make amendes or that thou dye Remors of conſcy.</l>
+            <l>
+               <pb facs="tcp:152112:5"/>
+A cryſten ſoule conceyued in ſynne</l>
+            <l>Receyued in conſcyence thus complanynge</l>
+            <l>He fell dowue flatte with delefull dynne</l>
+            <l>And ſayd lorde mercy ſouerayne kynge</l>
+            <l>I mooſt vnkynde wretche of man kynne</l>
+            <l>I knowe I am thy traytour vntrue in my ly<g ref="char:EOLunhyphen"/>uynge</l>
+            <l>This wycked lyfe that I lyue in</l>
+            <l>I may it nought hyde frome thy knowynge</l>
+            <l>I want wordes and alſo wytte</l>
+            <l>Of thy kyndneſſe to ſpeke a cauſe</l>
+            <l>That I haue thou gaue me it</l>
+            <l>Of thy goodnes withouten cauſe</l>
+            <l>Though I haue greued the and do yet</l>
+            <l>Thy benefaytes thou nought withdrawſe</l>
+            <l>I haue deſerued to haue hell pytte</l>
+            <l>So haue I lyued ayenſt thy lawſe</l>
+            <l>But lorde thou knoweſt mannes febleneſſe</l>
+            <l>How frayle it is and hath ben aye</l>
+            <l>For thought the ſoule haue thy lykeneſſe</l>
+            <l>Man is but fulſome erthe and clayne</l>
+            <l>In ſynne conceyued and wretchedneſſe</l>
+            <l>And to the ſoule rebell alwaye</l>
+            <l>Fyrſt a man groweth as dooth greſſe</l>
+            <l>And he waſteth after as floures or haye</l>
+            <l>Syth man is than ſo frayle a thynge</l>
+            <l>And thy power ſo grete in kynde</l>
+            <l>This worlde is but a twynkelynge</l>
+            <l>Thou mayſt deſtroye the myght of the fende</l>
+            <l>With thy ryght lordemercy mynge</l>
+            <l>And to my ſore ſalue thou ſende</l>
+            <l>Sore merepenteth of my myſlyuynge</l>
+            <l>Mercy lorde I wyll amende</l>
+            <l>
+               <pb facs="tcp:152112:5"/>
+Man yf thou amendes wylte make</l>
+            <l>Gyue thyn almeſſe of thyn owne goodes</l>
+            <l>And ſe thou werkes no man to wrake</l>
+            <l>To venge ony other mennes modes</l>
+            <l>If thou vntruly from ony take</l>
+            <l>And therwith fynde forty theyr fodes</l>
+            <l>Suche ſacrefyce I forſake</l>
+            <l>They be to me as ſoure as worme wode</l>
+            <l>The poore people thou doo oppreſſe</l>
+            <l>With ſleyghtes and wyles many one</l>
+            <l>Thou makeſt chyrches and do ſynge meſſe</l>
+            <l>Thou mendeſt wayes where men ouer gone</l>
+            <l>And ſome men curſe and ſome men bleſſe</l>
+            <l>Whiche ſhall I here of theſe two</l>
+            <l>I thou wylte haue grace as I geſſe</l>
+            <l>Let all falſnes be fledde the fro</l>
+            <l>The mothes that thy clothes ete</l>
+            <l>And thou letteſt poore men go bare</l>
+            <l>Thy drynke ſoureth and mouleth thy mete</l>
+            <l>Wherwith the poore man myght well fare</l>
+            <l>The ruſt that thy ſyluer dooth frete</l>
+            <l>Thy goodes that euyll goten are</l>
+            <l>They crye on the vengeaunce grete</l>
+            <l>The for to ſpyll but yet I ſpare</l>
+            <l>With hodeſt here ayenſt the ryght</l>
+            <l>Frome thy ſeruauntes vpon the crye</l>
+            <l>Man oftentymes thou haſt me hygth</l>
+            <l>Thou wolde amende and leue foly</l>
+            <l>Thou ſpekeſt full fayre bothe daye &amp; nyght</l>
+            <l>Thou brekeſt my co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>deme<g ref="char:cmbAbbrStroke">̄</g>tes co<g ref="char:cmbAbbrStroke">̄</g>tynually</l>
+            <l>yet is me lothe with the to fyght</l>
+            <l>But make amendes or that thou dye</l>
+            <l>
+               <pb facs="tcp:152112:6"/>
+Swete lorde I may not agaynſt ſaye</l>
+            <l>I haue not holden that I the hyght</l>
+            <l>I greue the gretely euery daye</l>
+            <l>I do not as I had the plyght</l>
+            <l>In wolde do well but welawaye</l>
+            <l>With enemyes I am euer beſet</l>
+            <l>Whan my ſoule fayne wolde the paye</l>
+            <l>My fleſſhe is fyrſt that wyll me let</l>
+            <l>And euer the fader that I it fede</l>
+            <l>Euer the freſſher it is my foo</l>
+            <l>yet bere it aboute I muſt nede</l>
+            <l>Full feble it is it wyll me ſloo</l>
+            <l>The worlde / the fende / the fleſſhe they bede</l>
+            <l>Some with well and ſome with woo</l>
+            <l>What may I do with a wycked wede</l>
+            <l>To fyght ayenſt thre enemyes ſoo</l>
+            <l>Whan I enforce me other whyles</l>
+            <l>And thynke I wyll lyue a true lyue</l>
+            <l>And forſake all batayles and gyles</l>
+            <l>The worlde byddeth me batayle belyue</l>
+            <l>And but I wyll vſe wrethes and wyles</l>
+            <l>The comym voyce is I ſhall not tryue</l>
+            <l>Some me ſcorneth and at me ſmyles</l>
+            <l>And counte me but a kynde caytyue</l>
+            <l>But now I thynke withſtondynge this</l>
+            <l>To forſake falſnes withouten ende</l>
+            <l>And reſtore that I toke amys</l>
+            <l>And paye my dettes fayre and hende</l>
+            <l>And to rewarde eche man his</l>
+            <l>As reaſon is than wyll I ſpende</l>
+            <l>And gyue myn almeſſe there nede is</l>
+            <l>Mercy Iheſu I wyll amende</l>
+            <l>
+               <pb facs="tcp:152112:6"/>
+Man I haue ſente the kyndly ſyght</l>
+            <l>And vndeſtandynge ſkyll and wytte</l>
+            <l>To rule thy ſelfe by reaſon ryght</l>
+            <l>As reherſeth holy wrytte</l>
+            <l>That clerely ſheweth the godly lyght</l>
+            <l>How thou ſholde deedly ſynne forſake</l>
+            <l>And on that maner thou pleaſe me myght</l>
+            <l>What ayleth the thus fro me to ſhake</l>
+            <l>Worlde rycheſſe ryall repayre</l>
+            <l>In welth and thynges of Iolyte</l>
+            <l>Fyſſhes / beeſtes / and byrdes of the ayre</l>
+            <l>Theſe thynketh me ſemely for to ſe</l>
+            <l>That thynge y<hi rend="sup">t</hi> peryſſheth &amp; dooth appayre</l>
+            <l>Vnto thy ſyght thus pleaſynge be</l>
+            <l>Well mayſt thou wytte I am full fayre</l>
+            <l>Of whome eche thynge hath this beaute</l>
+            <l>But man as thou wytleſſe were</l>
+            <l>Thou lokeſt aye downwarde as a beeſt</l>
+            <l>It behoueth the of me to here</l>
+            <l>Foule ſpekynge is to the a feeſt</l>
+            <l>I comforte the I make the chere</l>
+            <l>And thou in wardly loueſt me leeſt</l>
+            <l>I call the to me yere by yere</l>
+            <l>Thou wylte not come at my reqeſt</l>
+            <l>As fro thy foo thou fro me feles</l>
+            <l>I folowe the faſt and on the crye</l>
+            <l>Thou wrappeſt the with all vanytes</l>
+            <l>And thynke my ſpeche to the but folye</l>
+            <l>And a thynge that noutght is y<hi rend="sup">u</hi> wylte leſe</l>
+            <l>My Ioye that laſteth endleſlye</l>
+            <l>Man yet vyce leue and vertue cheſe</l>
+            <l>And make amendes or that thou dye</l>
+            <l>
+               <pb facs="tcp:152112:7"/>
+Swete Iheſu none anſwere I can</l>
+            <l>But ofte crye mercy with herte ſtable</l>
+            <l>Alas for woo why is a man</l>
+            <l>Worſe than a beeſt vnreaſonable</l>
+            <l>All beeſtes ſytheathe worlde began</l>
+            <l>In kyndely werkynge ben durable</l>
+            <l>Saue onely I of wyll wan</l>
+            <l>That do full many dedes dampnable</l>
+            <l>I was made to knowe my maker</l>
+            <l>And to loue hym ouer all thynge</l>
+            <l>And I a ſleper and neuer waker</l>
+            <l>To take kynde knowynge of my kynge</l>
+            <l>To tryfles haue I ben a grete hede taker</l>
+            <l>A ſonge of ſorowe maye I ſynge</l>
+            <l>For had I ben of ſynne a forſaker</l>
+            <l>Of cryſte ſholde I haue had ſome knowynge</l>
+            <l>My ghooſtly eyen ben full of luſte</l>
+            <l>Curſed couetyſe hath blynded me</l>
+            <l>They ben blode ſhotten with fleſhely luſte</l>
+            <l>That heuenly kynge may I not ſe</l>
+            <l>But lorde though I haue ben vniuſte</l>
+            <l>Thorough helpe of thy benygnyte</l>
+            <l>I hope to rube awaye the ruſte</l>
+            <l>With repentaunce and grace of the</l>
+            <l>And where that I haue afore this</l>
+            <l>My wyll in worlde thynge haue ſpende</l>
+            <l>From hens forwarde my purpoſe is</l>
+            <l>Thy lawe to lerne to my lyues ende</l>
+            <l>Thy. x. commaundementes truly I wys</l>
+            <l>Them to kepe I wyll me mende bende</l>
+            <l>And there as I haue done amys</l>
+            <l>Mercy Iheſu I wyll amende</l>
+            <l>
+               <pb facs="tcp:152112:7"/>
+Man yf thou wylte my mercy gete</l>
+            <l>Thrugh my paſſyon of mooſt vertue</l>
+            <l>Why ceaſeſt thou not me for to bete</l>
+            <l>Eche daye on the croſſe dooſt me newe</l>
+            <l>With deedly ſynne on morowe at mete</l>
+            <l>As tourmentours to me vntrue</l>
+            <l>And namely with thy othes grete</l>
+            <l>To ſwere thou wylte no thynge eſchew.</l>
+            <l>No lymme of me / nor thou dereſt</l>
+            <l>Why ſayeſt thou euyll ayenſt good</l>
+            <l>By my ſoule ofte tyme thou ſwereſt</l>
+            <l>By my body and by my blode</l>
+            <l>With thy tonge thou me all to tereſt</l>
+            <l>Whan thou arte wrothe and almooſt wo</l>
+            <l>Man with thyn vnkyndnes thou me d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t</l>
+            <l>More than they rente me on the rode</l>
+            <l>Thou haſt more pyte of thy too</l>
+            <l>If it be hurte and a lytell blede</l>
+            <l>And all that euer that I dyde doo</l>
+            <l>I ſuffred it for thy myſdede</l>
+            <l>Whan thou arte taught that thou ſholde do</l>
+            <l>Of ſwerynge but whan it were nede</l>
+            <l>Thou ſcorneſt them that ſayeth ſo</l>
+            <l>Thou takeſt to my byddynge no hede</l>
+            <l>Loude leſynges on me thou makeſt</l>
+            <l>Somtyme to wynne an halfe peny</l>
+            <l>Whan to wytneſſe thou me takeſt</l>
+            <l>And yet for ſwereſt the wylfully</l>
+            <l>Byenge and ſellynge thou not forſakeſt</l>
+            <l>But vayne and fals to ſwere me by</l>
+            <l>Whan thou dooſt thus thy bale thou takeſt</l>
+            <l>Man make amendes or that thou dye Remors of conſcy.</l>
+            <l>
+               <pb facs="tcp:152112:8"/>
+Swete Ieſu how ſholde I agayne ſaye</l>
+            <l>But that I am a caytyfe and more curſte</l>
+            <l>That dooth on the curſe euery daye</l>
+            <l>With grete othes and werkes worſte</l>
+            <l>And moche more the greueth than they</l>
+            <l>On caluary that flewe fyrſte</l>
+            <l>For had they knowen the for god veray</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o do the to deth they had not durſte</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut I knowe after my byleue</l>
+            <l>That thou arte god omnypotent</l>
+            <l>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d I ſeace not the to greue</l>
+            <l>Well worthy I am to be ſhente</l>
+            <l>How mayſt thou lorde ſuffre to meue</l>
+            <l>Of the traytours that the tourment</l>
+            <l>Meruayle it is I do not myſcheue</l>
+            <l>Or am not kylled / drownet / or brent</l>
+            <l>The erthe opened and ſwalowed quycke</l>
+            <l>Sathan and abyron for theyr ſynne</l>
+            <l>And as I wene they were neuer ſo wycke</l>
+            <l>As mooſt certyfefull mankynne</l>
+            <l>Indeedly ſynne men dye now thycke</l>
+            <l>Dyſeaſe full grete now dooth begynne</l>
+            <l>Yet in my ſynne I ſtande and ſtycke</l>
+            <l>Euyll cuſtome is full harde to blynne</l>
+            <l>I wolde be wanton and do euyll</l>
+            <l>But I wolde none me reprehende</l>
+            <l>But let me lyue after my wyll</l>
+            <l>This was lefull ſomtyme I wende</l>
+            <l>But now I ſe that it is ſkyll</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uche lyght lorde thou haſte me ſende</l>
+            <l>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t I leue ſynne it wyll me ſpyll</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ercy lorde I wyll amende</l>
+            <l>
+               <pb facs="tcp:152112:8"/>
+Man do penaunce whyle thou mor</l>
+            <l>Leeſt ſodeynly I take vengeaunce</l>
+            <l>Bydd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I the not daye by daye</l>
+            <l>For cauſe I wolde thou dyde penaunce</l>
+            <l>Man I am more redy alwaye</l>
+            <l>To forgyue thy myſgouernaunce</l>
+            <l>Whan y<hi rend="sup">u</hi> of all thy frendes haſte made aſſaye</l>
+            <l>Thou ſhalte fynde none like to me</l>
+            <l>Thou wylte amende oftetymes thou ſa<gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>
+            </l>
+            <l>Agayne amendes no man may<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e</l>
+            <l>Do true penaunce and I am payed</l>
+            <l>From endles payne to make the fre</l>
+            <l>For thy loue my lyfe I layed</l>
+            <l>What frende ſholde haue done ſo for the</l>
+            <l>With ſorowfull herte thy ſynne thou ſhryue</l>
+            <l>And make amendes to thyn enemy</l>
+            <l>If thou thus leue thy wycked lyue</l>
+            <l>I wyll be therof gladde truly</l>
+            <l>Thynke oftentymes of lothes wyne</l>
+            <l>And tourne not to thy ſynne agayne</l>
+            <l>Let no dyſpayre downe the dryue</l>
+            <l>Thynke on Peter and Magdalayne</l>
+            <l>Man wype awaye thy wyckedneſſe</l>
+            <l>And kepe my byddynge by and by</l>
+            <l>And thou ſhalte haue in my paleſſe</l>
+            <l>Worſhyp withouten vylany</l>
+            <l>No pouerte but all rycheneſſe</l>
+            <l>Helth / ſtrength / &amp; wyſdome truly</l>
+            <l>Thou ſhalte be full of all ſwetneſſe</l>
+            <l>And than to lyue and neuermore dye</l>
+            <l>
+               <pb facs="tcp:152112:9"/>
+Graunte mercy Iheſu croppe and rote</l>
+            <l>Of all frendſhyp for in none fayles</l>
+            <l>Ayen<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he I wy<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> not mote</l>
+            <l>But as ofte as me euyll ayles</l>
+            <l>I wyll fall downe flatte to thy fote</l>
+            <l>To helpe me in ghooſtly batayles</l>
+            <l>Now wote I where I ſhall me hyde</l>
+            <l>Whan I am ſtyred to ony ſynne</l>
+            <l>In the grete wounde of thy ryght ſyde</l>
+            <l>And be hertely hydde therin</l>
+            <l>As in a toure there may I abyde</l>
+            <l>For ought ye fynde can me ymagyn</l>
+            <l>For all this worlde that is ſo wyde</l>
+            <l>Therin is ſouerayne medecyn</l>
+            <l>There may no wanhope make me care</l>
+            <l>That haue of they aungeiles ſo good</l>
+            <l>To kepe me that I not myſfare</l>
+            <l>And thy moder myldeſt of mode</l>
+            <l>Lorde ſhende vs thy woundes then</l>
+            <l>And than of mercy we may not myſſe</l>
+            <l>And than to helpe cryſten men</l>
+            <l>Now Iheſu lorde thou vs wyſſe</l>
+            <l>That we with the may byde to blyſſe</l>
+            <l>In Ioye and blyſſe withouten ende</l>
+            <l>That to thy people ordeyned is</l>
+            <l>That leue ſynne and them amende</l>
+            <closer>AMEN.</closer>
+            <pb facs="tcp:152112:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
